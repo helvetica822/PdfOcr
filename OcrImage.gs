@@ -4,10 +4,10 @@ function myFunction() {
 }
 
 // 画像ルートフォルダ
-const rootFolderID = '17rZjM9SLvpHMGmMcBVw22s-iSRzf7KxD';
+const rootFolderID = 'ここをフォルダのIDに書き換える';
 
 // テキスト保存先フォルダ
-const textFolderID = '1eX4cj5I94SEqRI0FPC9YlVd1BIBDykbf';
+const textFolderID = 'ここをフォルダのIDに書き換える';
 const textFolder = DriveApp.getFolderById(textFolderID);
 
 // OCRの設定
